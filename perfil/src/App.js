@@ -18,7 +18,7 @@ class App extends Component {
     this.setState({
       idade: <b>Idade</b>,
       idade2: '19 anos',
-      nome: 'Jean Pedro da Silva Korla  ',
+      nome: 'Lucas Sarabando Esteves  ',
       data_de_nascimento:<b>Data_de_nascimento</b>,
       data_de_nascimento2: '02/02/2002',
       genero: 'Masculino',
